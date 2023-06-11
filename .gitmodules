@@ -1,3 +1,9 @@
 [submodule "python_script_camera"]
 	path = python_script_camera
 	url = https://github.com/CrossEyedCat/smart_camera.git
+[submodule "admin"]
+	path = admin
+	url = https://github.com/NastyaLush/itmo_face_ID.git
+[submodule "client"]
+	path = client
+	url = https://github.com/Dimon228322228/Smart_camera.git
